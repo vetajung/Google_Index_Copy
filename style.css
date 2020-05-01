@@ -1,3 +1,7 @@
+html {
+  min-width: 960px;
+}
+
 /*Header*/
 
 #header {
@@ -211,6 +215,7 @@ input:focus {
 }
 
 .footer_a {
+  min-width: 960px;
   padding-left: 30px;
   height: 40px;
   align-items: center;
